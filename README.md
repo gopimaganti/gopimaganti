@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @gopimaganti
+- 👀 I’m interested in Machine Learning and Data Sciences
