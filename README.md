@@ -1,2 +1,1 @@
-- 👋 Hi, I’m @gopimaganti
-- 👀 I’m interested in Machine Learning and Data Sciences
+Graduate student pursuing MS in Machine Learning and Data Science from University of Southern California with 3+ years of hands-on experience in providing high-impact solutions to solve complex business problems for FMCG, Retail and Pharma industry verticals using data analytics and machine learning frameworks. Proficient in various developing and scaling machine learning frameworks along with an understanding of Python, SQL, MATLAB, R, R Shiny, Tableau, PowerBI, Git, TensorFlow, NLP and deep learning concepts.
